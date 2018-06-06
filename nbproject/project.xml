@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.php.project</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/php-project/1">
+            <name>hotelReservation</name>
+        </data>
+        <libraries xmlns="http://www.netbeans.org/ns/cdnjs-libraries/1">
+            <library name="bootstrap-rating" version="1.4.0">
+                <file localPath="js/libs/bootstrap-rating/bootstrap-rating.css" path="bootstrap-rating.css"/>
+                <file localPath="js/libs/bootstrap-rating/bootstrap-rating.js" path="bootstrap-rating.js"/>
+                <file localPath="js/libs/bootstrap-rating/bootstrap-rating.min.css" path="bootstrap-rating.min.css"/>
+                <file localPath="js/libs/bootstrap-rating/bootstrap-rating.min.css.map" path="bootstrap-rating.min.css.map"/>
+                <file localPath="js/libs/bootstrap-rating/bootstrap-rating.min.js" path="bootstrap-rating.min.js"/>
+            </library>
+            <library name="jquery-bar-rating" version="1.2.2">
+                <file localPath="js/libs/jquery-bar-rating/jquery.barrating.min.js" path="jquery.barrating.min.js"/>
+                <file localPath="js/libs/jquery-bar-rating/jquery.barrating.min.js.map" path="jquery.barrating.min.js.map"/>
+                <file localPath="js/libs/jquery-bar-rating/themes/bars-1to10.css" path="themes/bars-1to10.css"/>
+                <file localPath="js/libs/jquery-bar-rating/themes/bars-1to10.min.css" path="themes/bars-1to10.min.css"/>
+                <file localPath="js/libs/jquery-bar-rating/themes/bars-1to10.min.css.map" path="themes/bars-1to10.min.css.map"/>
+                <file localPath="js/libs/jquery-bar-rating/themes/bars-horizontal.css" path="themes/bars-horizontal.css"/>
+                <file localPath="js/libs/jquery-bar-rating/themes/bars-horizontal.min.css" path="themes/bars-horizontal.min.css"/>
+                <file localPath="js/libs/jquery-bar-rating/themes/bars-horizontal.min.css.map" path="themes/bars-horizontal.min.css.map"/>
+                <file localPath="js/libs/jquery-bar-rating/themes/bars-movie.css" path="themes/bars-movie.css"/>
+                <file localPath="js/libs/jquery-bar-rating/themes/bars-movie.min.css" path="themes/bars-movie.min.css"/>
+                <file localPath="js/libs/jquery-bar-rating/themes/bars-movie.min.css.map" path="themes/bars-movie.min.css.map"/>
+                <file localPath="js/libs/jquery-bar-rating/themes/bars-pill.css" path="themes/bars-pill.css"/>
+                <file localPath="js/libs/jquery-bar-rating/themes/bars-pill.min.css" path="themes/bars-pill.min.css"/>
+                <file localPath="js/libs/jquery-bar-rating/themes/bars-pill.min.css.map" path="themes/bars-pill.min.css.map"/>
+                <file localPath="js/libs/jquery-bar-rating/themes/bars-reversed.css" path="themes/bars-reversed.css"/>
+                <file localPath="js/libs/jquery-bar-rating/themes/bars-reversed.min.css" path="themes/bars-reversed.min.css"/>
+                <file localPath="js/libs/jquery-bar-rating/themes/bars-reversed.min.css.map" path="themes/bars-reversed.min.css.map"/>
+                <file localPath="js/libs/jquery-bar-rating/themes/bars-square.css" path="themes/bars-square.css"/>
+                <file localPath="js/libs/jquery-bar-rating/themes/bars-square.min.css" path="themes/bars-square.min.css"/>
+                <file localPath="js/libs/jquery-bar-rating/themes/bars-square.min.css.map" path="themes/bars-square.min.css.map"/>
+                <file localPath="js/libs/jquery-bar-rating/themes/bootstrap-stars.css" path="themes/bootstrap-stars.css"/>
+                <file localPath="js/libs/jquery-bar-rating/themes/bootstrap-stars.min.css" path="themes/bootstrap-stars.min.css"/>
+                <file localPath="js/libs/jquery-bar-rating/themes/bootstrap-stars.min.css.map" path="themes/bootstrap-stars.min.css.map"/>
+                <file localPath="js/libs/jquery-bar-rating/themes/css-stars.css" path="themes/css-stars.css"/>
+                <file localPath="js/libs/jquery-bar-rating/themes/css-stars.min.css" path="themes/css-stars.min.css"/>
+                <file localPath="js/libs/jquery-bar-rating/themes/css-stars.min.css.map" path="themes/css-stars.min.css.map"/>
+                <file localPath="js/libs/jquery-bar-rating/themes/fontawesome-stars-o.css" path="themes/fontawesome-stars-o.css"/>
+                <file localPath="js/libs/jquery-bar-rating/themes/fontawesome-stars-o.min.css" path="themes/fontawesome-stars-o.min.css"/>
+                <file localPath="js/libs/jquery-bar-rating/themes/fontawesome-stars-o.min.css.map" path="themes/fontawesome-stars-o.min.css.map"/>
+                <file localPath="js/libs/jquery-bar-rating/themes/fontawesome-stars.css" path="themes/fontawesome-stars.css"/>
+                <file localPath="js/libs/jquery-bar-rating/themes/fontawesome-stars.min.css" path="themes/fontawesome-stars.min.css"/>
+                <file localPath="js/libs/jquery-bar-rating/themes/fontawesome-stars.min.css.map" path="themes/fontawesome-stars.min.css.map"/>
+            </library>
+        </libraries>
+    </configuration>
+</project>
